@@ -4,7 +4,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
  Live Demo
 
-[nimrah-portfolio.netlify.app]
+[View Live Website](https://nimrah-portfolio.netlify.app/)
+
 
 Features
 
